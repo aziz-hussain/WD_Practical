@@ -1,0 +1,4 @@
+<!ELEMENT item (id, name, price)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT price (#PCDATA)>

@@ -1,0 +1,26 @@
+<!DOCTYPE item SYSTEM "item.dtd">
+
+<item>
+    <id>1</id>
+    <name>Baigan</name>
+    <price>20</price>
+
+</item>
+
+
+<!-- OR  -->
+
+
+<!-- 
+<!DOCTYPE item [
+<!ELEMENT item (id, name, price)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+]>
+
+<item>
+    <id>1</id>
+    <name>Baigan</name>
+    <price>20</price>
+</item> -->
